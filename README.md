@@ -23,9 +23,9 @@ For additional info, contact Brian Lee at [leebrian53@gmail.com](mailto:leebrian
 ## Repository Structure
 
 ```
-├── Data
+├── time-series
 ├── README.md
 ├── time-series.ipynb
 ├── time-series.pdf
-└── Housing_Price_Analysis_Presentation.pdf
+└── Houston_Housing_Time_Analysis_Presentation.pdf
 ```
